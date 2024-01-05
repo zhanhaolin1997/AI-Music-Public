@@ -4,3 +4,5 @@
 
  2303.08385.pdf is applying Diffusion on piano rolls.
  2208.05697.pdf also of interest.
+
+ HuggingFace's MusicGen: https://huggingface.co/papers/2306.05284
