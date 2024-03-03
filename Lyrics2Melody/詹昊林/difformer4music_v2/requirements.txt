@@ -1,0 +1,7 @@
+numpy
+fairseq
+sacrebleu
+sacremoses
+bert-score
+tensorboard
+tensorboardX
